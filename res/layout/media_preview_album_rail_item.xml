@@ -8,7 +8,7 @@
     android:layout_height="wrap_content"
     android:animateLayoutChanges="true">
 
-    <org.thoughtcrime.securesms.components.ThumbnailView
+    <org.gregeryb.securesms.components.ThumbnailView
         android:id="@+id/rail_item_image"
         android:layout_width="56dp"
         android:layout_height="56dp"
